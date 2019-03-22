@@ -70,6 +70,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
+- [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos) - Canal que disponibiliza vários webinars sobre desenvolvimento com Node.js. _Tags: `javascript`,`nodejs`_
 
 ### Desenvolvimento Front-End 💻
 
@@ -160,6 +161,8 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
 - [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
 - [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
+- [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps _Tags: `linux`, `devops`, `docker`, `kubernetes`_
+- [Getup Cloud](https://www.youtube.com/getupcloud) - Dicas sobre cloud e Kubernetes _Tags: `devops`, `docker`, `kubernetes`_
 
 ### Inteligência Artificial 🤖
 
